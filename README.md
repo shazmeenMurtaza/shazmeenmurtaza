@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shazmeen Murtaza</h1>
 <h3 align="center">A passionate Computer Systems Engineer from Pakistan</h3>
 
-<img align="right" alt="coding"width="400"src="C:\Users\PMLS\Desktop\gif.webp">
+
 
 <p align="left"> <img src="https://th.bing.com/th/id/OIP.zwJUihxJsHgUL9eQ2x-n4QHaEK?w=259&h=180&c=7&r=0&o=7&dpr=1.5&pid=1.7&rm=3" alt="shazmeenmurtaza" /> </p>
 
